@@ -1,0 +1,10 @@
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\bin\Debug\MP13.exe.config
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\bin\Debug\MP13.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\bin\Debug\MP13.pdb
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\obj\Debug\MP13.csprojAssemblyReference.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\obj\Debug\MP13.Form1.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\obj\Debug\MP13.Properties.Resources.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\obj\Debug\MP13.csproj.GenerateResource.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\obj\Debug\MP13.csproj.CoreCompileInputs.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\obj\Debug\MP13.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Segmentation\MP13\MP13\obj\Debug\MP13.pdb

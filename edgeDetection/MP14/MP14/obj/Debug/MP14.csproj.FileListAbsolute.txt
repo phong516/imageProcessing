@@ -1,0 +1,10 @@
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\bin\Debug\MP14.exe.config
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\bin\Debug\MP14.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\bin\Debug\MP14.pdb
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\obj\Debug\MP14.csprojAssemblyReference.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\obj\Debug\MP14.Form1.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\obj\Debug\MP14.Properties.Resources.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\obj\Debug\MP14.csproj.GenerateResource.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\obj\Debug\MP14.csproj.CoreCompileInputs.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\obj\Debug\MP14.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP14\MP14\obj\Debug\MP14.pdb
