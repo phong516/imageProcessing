@@ -52,3 +52,13 @@ F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Sharpening\MP12\MP12\obj\Debug\M
 F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Sharpening\MP12\MP12\obj\Debug\MP12.csproj.CoreCompileInputs.cache
 F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Sharpening\MP12\MP12\obj\Debug\MP12.exe
 F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Sharpening\MP12\MP12\obj\Debug\MP12.pdb
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\bin\Debug\MP12.exe.config
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\bin\Debug\MP12.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\bin\Debug\MP12.pdb
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\obj\Debug\MP12.csprojAssemblyReference.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\obj\Debug\MP12.Form1.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\obj\Debug\MP12.Properties.Resources.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\obj\Debug\MP12.csproj.GenerateResource.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\obj\Debug\MP12.csproj.CoreCompileInputs.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\obj\Debug\MP12.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Sharpening\MP12\MP12\obj\Debug\MP12.pdb

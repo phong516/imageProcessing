@@ -48,3 +48,13 @@ F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Smoothing\MP11\MP11\obj\Debug\MP
 F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Smoothing\MP11\MP11\obj\Debug\MP11.csproj.CoreCompileInputs.cache
 F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Smoothing\MP11\MP11\obj\Debug\MP11.exe
 F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\Smoothing\MP11\MP11\obj\Debug\MP11.pdb
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\bin\Debug\MP11.exe.config
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\bin\Debug\MP11.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\bin\Debug\MP11.pdb
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\obj\Debug\MP11.csprojAssemblyReference.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\obj\Debug\MP11.Form1.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\obj\Debug\MP11.Properties.Resources.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\obj\Debug\MP11.csproj.GenerateResource.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\obj\Debug\MP11.csproj.CoreCompileInputs.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\obj\Debug\MP11.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\Smoothing\MP11\MP11\obj\Debug\MP11.pdb

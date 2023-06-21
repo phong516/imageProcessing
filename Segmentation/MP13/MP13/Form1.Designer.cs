@@ -88,8 +88,6 @@
             this.picBoxGoc.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picBoxGoc.TabIndex = 2;
             this.picBoxGoc.TabStop = false;
-            this.picBoxGoc.MouseDown += new System.Windows.Forms.MouseEventHandler(this.picBoxGoc_MouseDown);
-            this.picBoxGoc.MouseUp += new System.Windows.Forms.MouseEventHandler(this.picBoxGoc_MouseUp);
             // 
             // tbX1
             // 

@@ -12,17 +12,17 @@ namespace MP13
 {
     public partial class Form1 : Form
     {
-        Bitmap hinhGoc = new Bitmap(@"F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\lena_color.jpg");
+        Bitmap hinhGoc = new Bitmap(@"F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\lena_color.jpg");
         int X1, Y1, X2, Y2;
-        Graphics g;
-        Pen pen = new Pen(Color.Red, width: 5);
+        //Graphics g;
+        //Pen pen = new Pen(Color.Red, width: 5);
 
         public Form1()
         {
             InitializeComponent();
             
             Bitmap hinhPhanDoan = Segmentation(hinhGoc, 80, 400, 150, 500, 45);
-            //picBoxSegment.Image = hinhPhanDoan;
+            picBoxSegment.Image = hinhPhanDoan;
             picBoxGoc.Image = hinhGoc;
 
         }
@@ -70,10 +70,15 @@ namespace MP13
             {
                 MessageBox.Show("Please enter coordinates!");
             }
+            X1 = Convert.ToInt16(tbX1.Text);
+            Y1 = Convert.ToInt16(tbY1.Text);
+            X2 = Convert.ToInt16(tbX2.Text);
+            Y2 = Convert.ToInt16(tbY2.Text);
+
             byte nguong = (byte)trbarThreshold.Value;
-            g = picBoxGoc.CreateGraphics();
-            picBoxGoc.Refresh();
-            g.DrawRectangle(pen, X1, Y1, X2 - X1, Y2 - Y1);
+            //g = picBoxGoc.CreateGraphics();
+            //picBoxGoc.Refresh();
+            //g.DrawRectangle(pen, X1, Y1, X2 - X1, Y2 - Y1);
             picBoxSegment.Image = Segmentation(hinhGoc, X1, Y1, X2, Y2, nguong);
         }
 
@@ -88,22 +93,22 @@ namespace MP13
         {
             X2 = e.X;
             Y2 = e.Y;
-            tbX2.Text = Convert.ToString(X2);
-            tbY2.Text = Convert.ToString(Y2);
+            //tbX2.Text = Convert.ToString(X2);
+            //tbY2.Text = Convert.ToString(Y2);
 
-            g = picBoxGoc.CreateGraphics();
+            //g = picBoxGoc.CreateGraphics();
 
 
-            g.DrawRectangle(pen, X1, Y1, X2 - X1, Y2 - Y1);
+            //g.DrawRectangle(pen, X1, Y1, X2 - X1, Y2 - Y1);
         }
 
         private void picBoxGoc_MouseDown(object sender, MouseEventArgs e)
         {
-            picBoxGoc.Refresh();
-            X1 = e.X;
-            Y1 = e.Y;
-            tbX1.Text = Convert.ToString(X1);
-            tbY1.Text = Convert.ToString(Y1);
+            //picBoxGoc.Refresh();
+            //X1 = e.X;
+            //Y1 = e.Y;
+            //tbX1.Text = Convert.ToString(X1);
+            //tbY1.Text = Convert.ToString(Y1);
 
         }
     }

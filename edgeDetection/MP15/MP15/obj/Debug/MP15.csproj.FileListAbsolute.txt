@@ -8,3 +8,13 @@ F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP15\MP15\obj\Debu
 F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP15\MP15\obj\Debug\MP15.csproj.CoreCompileInputs.cache
 F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP15\MP15\obj\Debug\MP15.exe
 F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\edgeDetection\MP15\MP15\obj\Debug\MP15.pdb
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\bin\Debug\MP15.exe.config
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\bin\Debug\MP15.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\bin\Debug\MP15.pdb
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\obj\Debug\MP15.csprojAssemblyReference.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\obj\Debug\MP15.Form1.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\obj\Debug\MP15.Properties.Resources.resources
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\obj\Debug\MP15.csproj.GenerateResource.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\obj\Debug\MP15.csproj.CoreCompileInputs.cache
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\obj\Debug\MP15.exe
+F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\edgeDetection\MP15\MP15\obj\Debug\MP15.pdb

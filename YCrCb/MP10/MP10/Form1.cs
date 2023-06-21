@@ -41,8 +41,8 @@ namespace MP10
                     byte B = Pixel.B;
 
                     double Y = (double)(16.0 + (65.738 / 256.0) * R + (129.057 / 256.0) * G + (25.064 / 256.0) * B);
-                    double Cb = (double)(128.0 - (37.945 / 256.0) * R - (74.494 / 256.0) * G + (112.439 / 256.0) * B);
-                    double Cr = (double)(128.0 + (112.439 / 256.0) * R - (94.154 / 256.0) * G - (18.285 / 256.0) * B);
+                    double Cr = (double)(128.0 - (37.945 / 256.0) * R - (74.494 / 256.0) * G + (112.439 / 256.0) * B);
+                    double Cb = (double)(128.0 + (112.439 / 256.0) * R - (94.154 / 256.0) * G - (18.285 / 256.0) * B);
 
                     imgY.SetPixel(x, y, Color.FromArgb((byte)Y, (byte)Y, (byte)Y));
                     imgCr.SetPixel(x, y, Color.FromArgb((byte)Cr, (byte)Cr, (byte)Cr));

@@ -15,7 +15,7 @@ namespace MP11
         public Form1()
         {
             InitializeComponent();
-            string FileHinh = @"F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\lena_color.jpg";
+            string FileHinh = @"F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\lena_color.jpg";
             Bitmap HinhGoc = new Bitmap(FileHinh);
             picboxGoc.Image = HinhGoc;
             picbox3x3.Image = SmoothingImg(HinhGoc, 3);
@@ -28,13 +28,13 @@ namespace MP11
         {
             Bitmap Img = new Bitmap(hinhgoc.Width, hinhgoc.Height);
             int K = mask * mask;
-            int khoangcach = (mask - 1) / 2;
-            for (int x = khoangcach; x < (hinhgoc.Width - khoangcach); x++)
-                for (int y = khoangcach; y < (hinhgoc.Height - khoangcach); y++)
+            int offset = mask / 2;
+            for (int x = offset; x < (hinhgoc.Width - offset); x++)
+                for (int y = offset; y < (hinhgoc.Height - offset); y++)
                 {
                     int Rs = 0, Gs = 0, Bs = 0;
-                    for (int i = (x - khoangcach); i <= (x + khoangcach); i++)
-                        for (int j = (y - khoangcach); j <= (y + khoangcach); j++)
+                    for (int i = (x - offset); i <= (x + offset); i++)
+                        for (int j = (y - offset); j <= (y + offset); j++)
                         {
                             Color pixel = hinhgoc.GetPixel(i, j);
                             byte R = pixel.R;

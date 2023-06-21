@@ -14,9 +14,9 @@ def segmentationRGB(imgDirectory, x1, y1, x2, y2, threshold):
             aR += R
             aG += G
             aB += B
-    aR = aR / size
-    aG = aG / size
-    aB = aB / size
+    aR /=  size
+    aG /= size
+    aB /= size
     for x in range(imgPIL.width):
         for y in range(imgPIL.height):
             zR, zG, zB = imgPIL.getpixel((x, y))
@@ -27,7 +27,8 @@ def segmentationRGB(imgDirectory, x1, y1, x2, y2, threshold):
 
 fileHinh = r'lena_color.jpg'
 hinhRGB = cv2.imread(fileHinh, cv2.IMREAD_COLOR)
+segImg = segmentationRGB(fileHinh, 80, 400, 150, 500, threshold = 45)
 cv2.imshow('Hinh RGB', hinhRGB)
-cv2.imshow('Hinh Segmentation', segmentationRGB(fileHinh, 80, 400, 150, 500, 45))
+cv2.imshow('Hinh Segmentation', segImg)
 cv2.waitKey(0)
 cv2.destroyAllWindows()

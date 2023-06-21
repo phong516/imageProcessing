@@ -12,7 +12,7 @@ namespace MP15
 {
     public partial class Form1 : Form
     {
-        public static Bitmap hinhGoc = new Bitmap(@"F:\OneDrive - hcmute.edu.vn\Hocc\HK6\ThiGiacMay\lena_color.jpg");
+        public static Bitmap hinhGoc = new Bitmap(@"F:\OneDrive - hcmute.edu.vn\Hocc\HK6\imageProcessing\lena_color.jpg");
 
         public Form1()
         {
